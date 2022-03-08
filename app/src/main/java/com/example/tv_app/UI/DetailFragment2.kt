@@ -7,7 +7,6 @@ import androidx.core.content.ContextCompat
 import androidx.leanback.app.BackgroundManager
 import androidx.leanback.app.DetailsSupportFragment
 import androidx.leanback.widget.*
-import com.example.tv_app.PlayerActivity
 import com.example.tv_app.Presenters.DetailDescriptionPresenter
 import com.example.tv_app.Presenters.PresenterWithoutDesc
 import com.example.tv_app.R

@@ -1,9 +1,10 @@
-package com.example.tv_app
+package com.example.tv_app.UI
 
 import android.os.Bundle
 import android.util.Log
 import android.view.KeyEvent
 import androidx.fragment.app.FragmentActivity
+import com.example.tv_app.R
 import com.google.android.exoplayer2.*
 import com.google.android.exoplayer2.trackselection.DefaultTrackSelector
 import com.google.android.exoplayer2.ui.PlayerView
