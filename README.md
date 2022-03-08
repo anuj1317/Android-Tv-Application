@@ -8,6 +8,8 @@ Android Tv app Using Leanback..
 # Home Screen
 ![image](https://user-images.githubusercontent.com/42887995/157187322-4348a659-740e-487b-bb21-04f13ccecd66.png)<br>
 
+![image](https://user-images.githubusercontent.com/42887995/157188897-f5929e15-a931-48c0-a130-9a71e60eea67.png)<br>
+
 ![image](https://user-images.githubusercontent.com/42887995/157187807-651ee884-d3f9-40b0-a9bf-cdb49ac93644.png)<br>
 
 ![image](https://user-images.githubusercontent.com/42887995/157187594-d9c07b37-0c4a-4406-98fe-97c7b56beab1.png)<br>
