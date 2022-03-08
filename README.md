@@ -1,6 +1,6 @@
-# Android-Tv-Application
-Android Tv app Using Leanback..
-# it Contains Onboarding Screen,Home Screen,Detail Screen and ExoPlayer Screen
+
+# Android Tv app Using Leanback..
+# It Contains Onboarding Screen,Home Screen,Detail Screen and ExoPlayer Screen
 
 # Onboarding Screen
 ![image](https://user-images.githubusercontent.com/42887995/157186844-3f36e274-aad1-4681-896e-03f6beca693b.png)
@@ -22,6 +22,6 @@ Android Tv app Using Leanback..
 
 ![image](https://user-images.githubusercontent.com/42887995/157188324-ad51526b-6be4-4bf3-9c87-30781763195e.png)<br>
 
-# Exolayer Activity
+# ExoPlayer Activity
 
 ![image](https://user-images.githubusercontent.com/42887995/157188574-bcbeba1b-6260-4b60-8b3f-37220ac37ed1.png)
