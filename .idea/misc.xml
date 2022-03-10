@@ -4,8 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.16770833333333332" />
+        <entry key="../../.gradle/caches/transforms-3/6d0aed067dcf1f1a40b65fd9c3423159/transformed/exoplayer-ui-2.17.0/res/drawable-anydpi-v21/exo_icon_play.xml" value="0.1255" />
         <entry key="app/src/main/res/drawable/bg_avatar.xml" value="0.1255" />
         <entry key="app/src/main/res/drawable/bg_avatar_border.xml" value="0.1255" />
+        <entry key="app/src/main/res/drawable/ic_baseline_pause_circle_filled_24.xml" value="0.1255" />
+        <entry key="app/src/main/res/drawable/ic_baseline_play_circle_filled_24.xml" value="0.1255" />
+        <entry key="app/src/main/res/drawable/ic_baseline_play_circle_outline_24.xml" value="0.1255" />
         <entry key="app/src/main/res/layout/activity_catalog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_detail.xml" value="0.11684782608695653" />
         <entry key="app/src/main/res/layout/activity_detail2.xml" value="0.11684782608695653" />
@@ -15,6 +19,8 @@
         <entry key="app/src/main/res/layout/card_layout.xml" value="0.11684782608695653" />
         <entry key="app/src/main/res/layout/fragment_detail2.xml" value="0.11684782608695653" />
         <entry key="app/src/main/res/layout/layout_header.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/player_controls.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/playercontrols2.xml" value="0.1578538102643857" />
         <entry key="app/src/main/res/layout/rect_layout.xml" value="0.11684782608695653" />
       </map>
     </option>
