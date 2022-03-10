@@ -24,4 +24,6 @@
 
 # ExoPlayer Activity
 
-![image](https://user-images.githubusercontent.com/42887995/157188574-bcbeba1b-6260-4b60-8b3f-37220ac37ed1.png)
+![image](https://user-images.githubusercontent.com/42887995/157188574-bcbeba1b-6260-4b60-8b3f-37220ac37ed1.png)<br>
+![image](https://user-images.githubusercontent.com/42887995/157644877-5931b264-e824-4a3c-a219-7153f8db62de.png)
+
